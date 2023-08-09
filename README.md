@@ -5,6 +5,10 @@
 Al finalizar el curso el alumno: Aplicará conocimientos de programación estructurada en Processing para realizar ejercicios básicos de diseño y lenguaje visual 2D. 
 Reconocer el contexto de la programación (no) creativa y de la generación de imágenes en relación a herramientas de inteligencia artificial. 
 
+## Sesiones
+
+- [ ] 09.08.23 - [Introducción a Processing](https://github.com/EmilioOcelotl/cc2-2024-1/blob/main/doc/s01.md) 
+
 # Criterios de evaluación
 
 - Realización de ejercicios parciales sobre lógica condicional (30%)
