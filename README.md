@@ -7,7 +7,8 @@ Reconocer el contexto de la programación (no) creativa y de la generación de i
 
 ## Sesiones
 
-- [ ] 09.08.23 - [Introducción a Processing](https://github.com/EmilioOcelotl/cc2-2024-1/blob/main/doc/s01.md) 
+- [x] 09.08.23 - [Sesión 01 - Introducción a Processing](https://github.com/EmilioOcelotl/cc2-2024-1/blob/main/doc/s01.md) 
+- [ ] 16.08.23 - [Sesion 02 - Fundamentos](https://github.com/EmilioOcelotl/cc2-2024-1/blob/main/doc/s01.md)
 
 # Criterios de evaluación
 
@@ -22,6 +23,7 @@ Reconocer el contexto de la programación (no) creativa y de la generación de i
 
 ## Referencias
 
+- Felguérez, M y Sasson, M. (1983) La Máquina Estética. Universidad Nacional Autónoma de México. 
 - Codina, Ll. (2023) [Cómo utilizar ChatGPT en el aula con perspectiva ética y pensamiento crítico: una proposición para docentes y educadores](https://www.lluiscodina.com/chatgpt-educadores/)
 - Goldsmith, K. (2011) Uncreative Writing: Managing Language in the Digital Age. Columbia University Press.
 - Reas, C. and Fry, B. (2014) Processing: A Programming Handbook for Visual Designers and Artists. The MIT Press.
