@@ -8,7 +8,8 @@ Reconocer el contexto de la programación (no) creativa y de la generación de i
 ## Sesiones
 
 - [x] 09.08.23 - [Sesión 01 - Introducción a Processing](https://github.com/EmilioOcelotl/cc2-2024-1/blob/main/doc/s01.md) 
-- [ ] 16.08.23 - [Sesion 02 - Fundamentos](https://github.com/EmilioOcelotl/cc2-2024-1/blob/main/doc/s01.md)
+- [x] 16.08.23 - [Sesion 02 - Fundamentos](https://github.com/EmilioOcelotl/cc2-2024-1/blob/main/doc/s02.md) - [Código](https://gist.github.com/EmilioOcelotl/08a4acd32234c350b6b4a4da11d45630)
+- [ ] 23.08.23 - [Sesión 03 - Colores e introducción a modo dinámico](https://github.com/EmilioOcelotl/cc2-2024-1/blob/main/doc/s03.md)
 
 # Criterios de evaluación
 
