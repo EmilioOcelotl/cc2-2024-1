@@ -13,7 +13,9 @@ Reconocer el contexto de la programación (no) creativa y de la generación de i
 - [x] 30.08.23 - [Sesión 04 - Objetos, color y Modo dinámico](https://github.com/EmilioOcelotl/cc2-2024-1/blob/main/doc/s04.md) - [Código](https://gist.github.com/EmilioOcelotl/a0a58d7fb8f4fd4baa7fccd1d1ab1f7b)
 - [x] 06.09.23 - [Sesión 05 - Modo dinámico y variables](https://github.com/EmilioOcelotl/cc2-2024-1/blob/main/doc/s05.md) - [Código](https://gist.github.com/EmilioOcelotl/0c909656d41f429c38cc29f43a3b04c8)
 - [x] 13.09.23 - [Sesión 06 - cambios y límites](https://github.com/EmilioOcelotl/cc2-2024-1/blob/main/doc/s06.md) - [Código](https://gist.github.com/EmilioOcelotl/7135e1f98d98e895bd8d38a004298fcf)
-- [ ] 27.09.23 -  [Sesión 07 - Repaso general, if else y distancia entre puntos](https://github.com/EmilioOcelotl/cc2-2024-1/blob/main/doc/s07.md)
+- [x] 27.09.23 - [Sesión 07 - Repaso general, if else y distancia entre puntos](https://github.com/EmilioOcelotl/cc2-2024-1/blob/main/doc/s07.md) - [Código](https://gist.github.com/EmilioOcelotl/f935107fbace5db365258bf229e0fc49)
+- [ ] 11.10.23 - [Sesión 08 - Collage y arreglos](https://gist.github.com/EmilioOcelotl/f935107fbace5db365258bf229e0fc49)
+
 
 ## Recursos 
 
@@ -24,6 +26,9 @@ Reconocer el contexto de la programación (no) creativa y de la generación de i
 - [Setup y draw](https://processing.org/examples/setupdraw.html)
 - [if](https://processing.org/reference/if.html)
 - [else](https://processing.org/reference/else.html)
+- [dist](https://processing.org/reference/dist_.html)
+- [Array](https://processing.org/reference/Array.html)
+- [Images and Pixels](https://processing.org/tutorials/pixels)
 
 ## Criterios de evaluación
 
