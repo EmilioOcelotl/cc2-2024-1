@@ -14,7 +14,8 @@ Reconocer el contexto de la programación (no) creativa y de la generación de i
 - [x] 06.09.23 - [Sesión 05 - Modo dinámico y variables](https://github.com/EmilioOcelotl/cc2-2024-1/blob/main/doc/s05.md) - [Código](https://gist.github.com/EmilioOcelotl/0c909656d41f429c38cc29f43a3b04c8)
 - [x] 13.09.23 - [Sesión 06 - cambios y límites](https://github.com/EmilioOcelotl/cc2-2024-1/blob/main/doc/s06.md) - [Código](https://gist.github.com/EmilioOcelotl/7135e1f98d98e895bd8d38a004298fcf)
 - [x] 27.09.23 - [Sesión 07 - Repaso general, if else y distancia entre puntos](https://github.com/EmilioOcelotl/cc2-2024-1/blob/main/doc/s07.md) - [Código](https://gist.github.com/EmilioOcelotl/f935107fbace5db365258bf229e0fc49)
-- [ ] 11.10.23 - [Sesión 08 - Collage y arreglos](https://gist.github.com/EmilioOcelotl/f935107fbace5db365258bf229e0fc49)
+- [x] 11.10.23 - [Sesión 08 - Collage y arreglos](https://github.com/EmilioOcelotl/cc2-2024-1/blob/main/doc/s08.md) - [Código](https://gist.github.com/EmilioOcelotl/cde33c960b2bc96626ec5d9d1c3ef49a)
+- [ ] 11.10.23 - [Sesión 09 - Collage y arreglos 2 | Introducción a for](https://github.com/EmilioOcelotl/cc2-2024-1/blob/main/doc/s09.md)
 
 
 ## Recursos 
