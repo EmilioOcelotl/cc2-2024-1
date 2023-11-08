@@ -16,8 +16,9 @@ Reconocer el contexto de la programación (no) creativa y de la generación de i
 - [x] 27.09.23 - [Sesión 07 - Repaso general, if else y distancia entre puntos](https://github.com/EmilioOcelotl/cc2-2024-1/blob/main/doc/s07.md) - [Código](https://gist.github.com/EmilioOcelotl/f935107fbace5db365258bf229e0fc49)
 - [x] 11.10.23 - [Sesión 08 - Collage y arreglos](https://github.com/EmilioOcelotl/cc2-2024-1/blob/main/doc/s08.md) - [Código](https://gist.github.com/EmilioOcelotl/cde33c960b2bc96626ec5d9d1c3ef49a)
 - [x] 18.10.23 - [Sesión 09 - Collage y arreglos 2 | Introducción a for](https://github.com/EmilioOcelotl/cc2-2024-1/blob/main/doc/s09.md) 
-- [ ] 25.10.23 - [Sesión 10 - Collage y arreglos 3 | For e imágenes](https://github.com/EmilioOcelotl/cc2-2024-1/blob/main/doc/s10.md)
-
+- [x] 25.10.23 - [Sesión 10 - For e imágenes](https://github.com/EmilioOcelotl/cc2-2024-1/blob/main/doc/s10.md)
+- [x] 01.11.23 - [Sesión 11 - For y puntillismo](https://github.com/EmilioOcelotl/cc2-2024-1/blob/main/doc/s11.md) - [Código](https://gist.github.com/EmilioOcelotl/f387c31bba7bc9da3112938f1826fced)
+- [ ] 08.11.23 - [Sesión 12 - for, map y gradientes](https://github.com/EmilioOcelotl/cc2-2024-1/blob/main/doc/s12.md)
 
 ## Recursos 
 
