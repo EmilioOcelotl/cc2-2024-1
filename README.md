@@ -20,7 +20,8 @@ Reconocer el contexto de la programación (no) creativa y de la generación de i
 - [x] 01.11.23 - [Sesión 11 - For y puntillismo](https://github.com/EmilioOcelotl/cc2-2024-1/blob/main/doc/s11.md) - [Código](https://gist.github.com/EmilioOcelotl/f387c31bba7bc9da3112938f1826fced)
 - [x] 08.11.23 - [Sesión 12 - for, map y gradientes](https://github.com/EmilioOcelotl/cc2-2024-1/blob/main/doc/s12.md) - [Código](https://gist.github.com/EmilioOcelotl/01267761ccf9caa221e89dd1ec45aee9)
 - [x] 16.11.23 - [Sesión 13 - iteraciones y transformaciones](https://github.com/EmilioOcelotl/cc2-2024-1/blob/main/doc/s13.md) - [Código](https://gist.github.com/EmilioOcelotl/6f3025f613e56462ad5befbf9a8fa608)
-- [ ] 22.11.23 [Sesión 14 - iteraciones y transformaciones 2](https://github.com/EmilioOcelotl/cc2-2024-1/blob/main/doc/s14.md)
+- [x] 22.11.23 - [Sesión 14 - iteraciones y transformaciones 2](https://github.com/EmilioOcelotl/cc2-2024-1/blob/main/doc/s14.md)
+- [ ] 29.11.23 - Sesión 15 - Iteraciones dobles, cierre del curso y actividades pendientes
 
 ## Recursos 
 
